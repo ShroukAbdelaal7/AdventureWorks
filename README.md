@@ -5,7 +5,9 @@ This project delivers an interactive, end-to-end business intelligence solution 
 
 By extracting and transforming relational data using complex **SQL** scripts, the raw data was shaped into a star schema data model and visualized inside **Power BI** to provide actionable, executive-level insights.
 
-![Sales Analytics Dashboard](assets\AdventureWorks_PBI.png)
+![Sales Analytics Dashboard](assets/AdventureWorks_PBI.png)
+
+🔍 SQL queries? Check them out here: [Querys folder](Querys)
 
 ---
 
