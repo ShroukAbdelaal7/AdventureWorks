@@ -7,7 +7,7 @@ By extracting and transforming relational data using complex **SQL** scripts, th
 
 ![Sales Analytics Dashboard](assets/AdventureWorks_PBI.png)
 
-🔍 SQL queries? Check them out here: [Querys folder](Querys)
+🔍 SQL queries? Check them out here: [Queries folder](Queries)
 
 ---
 
